@@ -15,3 +15,25 @@ Mathematical Logic is a tool for working with compound statements. In this week,
   - Proving via truth table or using laws
   - Predicates and quantifiers
  
+
+## 5 October - 11 October
+
+### Week Two: Sets and Sets operations
+
+#### Sets:
+
+  - Basic notations for sets
+  - Set equality
+  - Subset Relations
+  - Proper subset
+  - Cartesian products
+  - Set operations:
+
+        Union, intersection, differences, complement, and set Identities.
+
+#### Matrices
+
+  - Matrix eqality, matrix sums, matrix products
+  - Identity matrix, Power of matrix, Matrix transposition
+  - Symmetric matrices
+  - Zero-One-Matrix: Boolean products, Boolean power
