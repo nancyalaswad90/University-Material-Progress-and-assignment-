@@ -56,23 +56,24 @@ In this week studetns will learn:
   - Least common multiple
 
 ## 19 October - 25 October
+
 Week Four: Relations
 
 Relations:
 
   - Binary relations
   - Relations representations as:
-roaster notation and set builder notation
-grap and table
+      -roaster notation and set builder notation
+      -grap and table
   - Relations on a set
   - Properties of relations:
-Reflexive and Irreflexive
-Symmetry and antisymmetry
-Transitivity
+      -Reflexive and Irreflexive
+      -Symmetry and antisymmetry
+      -Transitivity
   - Combining relations
-Composite relations
-Power
-Transitive
+      -Composite relations
+      -Power
+      -Transitive
 
 ## 26 October - 1 November
 
@@ -82,11 +83,11 @@ In this lecture students will learn:
 
   - Graphs
 
-definition
-Types of Grpahs: Simple Graphs, Multigraphs, and PseudoGraphs, directed and multi directed graphs
-Degree of a  vertex
-Special graphs structure: complete, cycles, Wheels, n-cube
-Graph representation:  Ajacency matrix, and ajacency list
+      -definition
+      -Types of Grpahs: Simple Graphs, Multigraphs, and PseudoGraphs, directed and multi directed graphs
+      -Degree of a  vertex
+      -Special graphs structure: complete, cycles, Wheels, n-cube
+      -Graph representation:  Ajacency matrix, and ajacency list
 
 ## 2 November - 8 November
 
@@ -94,13 +95,13 @@ Week Six: Trees
 
   - Trees
 
-definiton
-Rooted tree
-m-arry tree
-binary tree
-balanced tree
-tree traversal: pre-order, in-order, and post-order
-Evaluation expressions written in: infix, prefix, and postfix notation
+      -definiton
+      -Rooted tree
+      -m-arry tree
+      -binary tree
+      -balanced tree
+      -tree traversal: pre-order, in-order, and post-order
+      -Evaluation expressions written in: infix, prefix, and postfix notation
 
 ## 9 November - 15 November
   
@@ -117,10 +118,10 @@ Int his lecture will talk about:
 Week 8: Relations (8.3, 8.4)
 
   - Representing relations:
-Using Matrices-Zero-One Matrices
-Using Digraphs
+      -Using Matrices-Zero-One Matrices
+      -Using Digraphs
   - Closures of relations:
-Transitive Closures
+      -Transitive Closures
 
 ## 23 November - 29 November
 
