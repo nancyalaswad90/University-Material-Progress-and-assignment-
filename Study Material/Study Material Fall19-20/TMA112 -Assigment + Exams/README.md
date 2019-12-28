@@ -1,5 +1,85 @@
 
 
+## 28 September - 4 October
+
+Block 1: Part 1
+
+ - Binary Data Representation and Computation
+ 
+
+## 5 October - 11 October
+
+Block 1: Part 3
+
+ - Hardware and Software Concept
+
+## 12 October - 18 October
+
+Block 1: Part 2
+
+ - Introduction to Python
+ - Introduction to problem solving in Python 1
+
+
+## 26 October - 1 November
+
+Block 1: Part 4
+
+ - Patterns, algorithms and programs 1
+
+
+## 2 November - 8 November
+
+Block 2: Part 2
+
+ - Patterns, algorithms and programs 2
+
+## 9 November - 15 November
+
+Block 2: Part 4
+
+ - Organizing your Python code and Data
+
+## 16 November - 22 November
+
+Block 2: Part 5
+
+ - Diving into data
+
+## 23 November - 29 November
+
+Block 2: Parts 1-3
+
+ - Cloud computing-Mobile phones
+
+
+## 30 November - 6 December
+
+Block 2: Part 6
+
+ - Location-based computing
+
+
+## 7 December - 13 December
+
+Block 2: Part 7
+
+ - Dangerous data
+
+
+## 14 December - 20 December
+
+Block 3: Part 1
+
+ - Data on your computer: a private investigation!
+
+## 21 December - 27 December
+
+Block 3: Part 3
+
+ - Cryptography: the secret of keeping secrets
+
+
 #  Instructor notes for assignment 
 
  	
